@@ -1,6 +1,6 @@
-package com.caelan.island.service;
+package com.caelan.service;
 
-import com.caelan.island.entity.CUser;
+import com.caelan.entity.CUser;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

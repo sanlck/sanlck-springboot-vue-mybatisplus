@@ -1,8 +1,7 @@
-package com.caelan.island.mapper;
+package com.caelan.mapper;
 
-import com.caelan.island.entity.CUser;
+import com.caelan.entity.CUser;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import org.apache.ibatis.annotations.Mapper;
 
 /**
  * <p>

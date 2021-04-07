@@ -1,8 +1,8 @@
-package com.caelan.island.service.impl;
+package com.caelan.service.impl;
 
-import com.caelan.island.entity.CUser;
-import com.caelan.island.mapper.CUserMapper;
-import com.caelan.island.service.CUserService;
+import com.caelan.entity.CUser;
+import com.caelan.mapper.CUserMapper;
+import com.caelan.service.CUserService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

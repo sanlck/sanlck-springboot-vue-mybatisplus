@@ -1,4 +1,4 @@
-package com.caelan.island;
+package com.caelan;
 
 import com.baomidou.mybatisplus.core.exceptions.MybatisPlusException;
 import com.baomidou.mybatisplus.core.toolkit.StringPool;
